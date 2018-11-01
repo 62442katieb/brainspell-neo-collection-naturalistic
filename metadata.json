@@ -1,0 +1,25 @@
+{
+    "description": "Replication of the Bottenhorn et al. (2018) meta-analysis of naturalistic fMRI paradigms",
+    "exclusion_criteria": [
+        "static, timed blocks of stimuli were presented with a well-defined window for participant response",
+        "assessed training or learning across multiple trials or across some period of practice (e.g., pre vs. post contrasts)",
+        "participants under the age of 18",
+        "participants with any history of neurological or psychiatric diagnosis",
+        "analyses that used an a priori region(s) of interest to investigate activation or functional connectivity",
+        "contrasts modeling ANOVA interaction-specific activations",
+        "does not report brain activation locations in a three-dimensional, standardized coordinate space"
+    ],
+    "inclusion_criteria": [
+        "tasks employing any stimulus which demanded continuous, real-time integration of dynamic streams of information"
+    ],
+    "search_to_pmids": {},
+    "tags": [
+        "Film viewing",
+        "Balloon Analogue Risk Task (BART)",
+        "Language Processing",
+        "Navigation",
+        "Navigation task",
+        "Emotion Perception"
+    ],
+    "unmapped_pmids": []
+}
