@@ -1,1 +1,8 @@
-{}
+{
+    "experiments": {
+        "11332": {
+            "excluded_flag": 1,
+            "key_value_pairs": []
+        }
+    }
+}
